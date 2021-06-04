@@ -9,7 +9,7 @@ namespace DTDValidator
     {
         private static bool DocumentHasErrors = false;
 
-        private static List<string> errorMessages = new List<string>();]
+        private static List<string> errorMessages = new List<string>();
 
         public static void Main()
         {
