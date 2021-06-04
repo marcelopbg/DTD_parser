@@ -1,0 +1,25 @@
+<!ELEMENT agenciaMO (profissionais, contratos, clientes)>
+
+<!ELEMENT profissionais (profissional+)>
+<!ELEMENT contratos (contrato*)>
+<!ELEMENT clientes (cliente*)>
+
+<!ELEMENT profissional (numeroControle, nome, dataNascimento, endereco, profissao)>
+
+<!ELEMENT numeroControle (#PCDATA)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT dataNascimento (#PCDATA)>
+<!ELEMENT endereco (#PCDATA)>
+<!ELEMENT profissao (#PCDATA)>
+
+<!ELEMENT contrato (numContrato, dataInicio, dataTermino?, valorHora, idCliente, numeroControle)>
+
+<!ELEMENT numContrato (#PCDATA)>
+<!ELEMENT dataInicio (#PCDATA)>
+<!ELEMENT dataTermino (#PCDATA)>
+<!ELEMENT valorHora (#PCDATA)>
+
+<!ELEMENT cliente (idCliente, nome, endereco, cpf_cnpj)>
+
+<!ELEMENT idCliente (#PCDATA)>
+<!ELEMENT cpf_cnpj (#PCDATA)>

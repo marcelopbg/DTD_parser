@@ -1,0 +1,37 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<!DOCTYPE agenciaMO SYSTEM "MaoDeObra.dtd">
+<agenciaMO>
+	<profissionais>
+		<profissional>
+			<numeroControle></numeroControle>
+			<nome></nome>
+			<dataNascimento></dataNascimento>
+			<endereco></endereco>
+			<profissao></profissao>
+		</profissional>
+	</profissionais>
+	<contratos>
+		<contrato>
+			<numContrato></numContrato>
+			<dataInicio></dataInicio>
+			<dataTermino></dataTermino>
+			<valorHora></valorHora>
+			<idCliente></idCliente>
+			<numeroControle></numeroControle>
+		</contrato>
+	</contratos>
+	<clientes>
+		<cliente>
+			<idCliente></idCliente>
+			<nome></nome>
+			<endereco></endereco>
+			<cpf_cnpj></cpf_cnpj>
+		</cliente>
+		<cliente>
+			<idCliente></idCliente>
+			<nome></nome>
+			<endereco></endereco>
+			<cpf_cnpj></cpf_cnpj>
+		</cliente>
+	</clientes>
+</agenciaMO>

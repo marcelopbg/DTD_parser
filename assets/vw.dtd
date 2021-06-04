@@ -1,0 +1,61 @@
+<!ELEMENT veiculos (veiculo+)>
+<!ELEMENT veiculo (modelo, preço, cores, ficha-técnica, opcionais)>
+<!ELEMENT modelo (#PCDATA)>
+<!ELEMENT preco (#PCDATA)>
+<!ELEMENT cores (metalicas+,perolizadas?, solidas+)>
+<!ELEMENT metalicas (cor+)>
+<!ELEMENT cor (nome, preço)>
+<!ELEMENT nome (#PCDATA)>
+<!ELEMENT preço (#PCDATA)>
+<!ELEMENT solidas (cor+)>
+<!ELEMENT perolizadas (cor+)>
+<!ELEMENT ficha-técnica (
+                        DESEMPENHO, 
+                        MOTOR, 
+                        FREIOS, 
+                        PRINCIPAIS-DIMENSÕES, 
+                        PESOS, COMPARTIMENTO-DE-CARGA, 
+                        DIREÇÃO, 
+                        TRANSMISSÃO, 
+                        RODAS-E-PNEUS, 
+                        RESERVATÓRIO-DE-COMBUSTÍVEL, 
+                        NÚMERO-MÁXIMO-DE-PASSAGEIROS
+                        )>
+<!ELEMENT DESEMPENHO (Aceleração-de-0-a-100-kmh, Velocidade-máxima)>
+<!ELEMENT Aceleração-de-0-a-100-kmh (#PCDATA)>
+<!ELEMENT Velocidade-máxima (#PCDATA)>
+<!ELEMENT MOTOR (cilindrada, Potência-líquida-máxima, Torque-líquido-máximo)>
+<!ELEMENT cilindrada (#PCDATA)>
+<!ELEMENT Potência-líquida-máxima (#PCDATA)>
+<!ELEMENT Torque-líquido-máximo (#PCDATA)>
+<!ELEMENT FREIOS (Dianteiros, Traseiros)>
+<!ELEMENT Dianteiros (#PCDATA)>
+<!ELEMENT Traseiros (#PCDATA)>
+<!ELEMENT PRINCIPAIS-DIMENSÕES (
+                                Comprimento,
+                                Distância-entre-eixos,
+                                Largura,
+                                Altura
+                                )>
+<!ELEMENT Comprimento (#PCDATA)>
+<!ELEMENT Distância-entre-eixos (#PCDATA)>
+<!ELEMENT Largura (#PCDATA)>
+<!ELEMENT Altura (#PCDATA)>
+<!ELEMENT PESOS (
+                Em-ordem-de-marcha,
+                Carga-útil-máxima?
+                )>
+<!ELEMENT Em-ordem-de-marcha (#PCDATA)>
+<!ELEMENT Carga-útil-máxima (#PCDATA)>
+<!ELEMENT COMPARTIMENTO-DE-CARGA (#PCDATA)>
+<!ELEMENT DIREÇÃO (#PCDATA)>
+<!ELEMENT TRANSMISSÃO (#PCDATA)>
+<!ELEMENT RODAS-E-PNEUS (#PCDATA)>
+<!ELEMENT RESERVATÓRIO-DE-COMBUSTÍVEL (#PCDATA)>
+<!ELEMENT NÚMERO-MÁXIMO-DE-PASSAGEIROS (#PCDATA)>
+<!ELEMENT opcionais (funcionais?, tecnológico?, opcional?)>
+<!ELEMENT opcional (nome, preço, item+)>
+<!ELEMENT tecnológico (opcional+)>
+<!ELEMENT funcionais (opcional+)>
+<!ELEMENT item (#PCDATA)>
+

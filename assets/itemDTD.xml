@@ -1,0 +1,16 @@
+<!--XML file using a DTD-->
+<!DOCTYPE store [
+  <!ELEMENT store (item)*> 
+  <!ELEMENT item (name,dept,price)>
+  <!ATTLIST item type CDATA #REQUIRED>
+  <!ATTLIST item ISBN CDATA #REQUIRED>
+  <!ELEMENT name (#PCDATA)>
+  <!ELEMENT dept (#PCDATA)>
+  <!ELEMENT price (#PCDATA)>]>
+<store>
+  <item type="supplies"  ISBN="2-3631-4">
+    <name>paint</name>
+    <dept>dept</dept>
+    <price>16.95</price>
+  </item>
+</store>

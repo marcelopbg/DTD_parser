@@ -1,0 +1,411 @@
+<?xml version="1.0"  encoding="UTF-8" ?>
+<!DOCTYPE veiculos SYSTEM "vw.dtd">
+<veiculos>
+    <veiculo>
+        <modelo>Gol 1.0 84 cv (E) / 75 cv (G) Manual de 5 velocidades Total flex 4 portas</modelo>
+        <preço>R$ 60.260,00</preço>
+        <cores>
+            <metalicas>
+                <cor>
+                    <nome>Cinza Platinum</nome>
+                    <preço>R$ 1610,00</preço>
+                </cor>
+                <cor>
+                    <nome>Prata Sirius</nome>
+                    <preço>R$ 1610,00</preço>
+                </cor>
+            </metalicas>
+            <solidas>
+                <cor>
+                    <nome>Branco Cristal</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+                <cor>
+                    <nome>Preto Ninja</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+                <cor>
+                    <nome>Vermelho Flash</nome>
+                    <preço>R$ 500,00</preço>
+                </cor>
+            </solidas>
+        </cores>
+        <ficha-técnica>
+            <DESEMPENHO>
+                <Aceleração-de-0-a-100-kmh>13,1 s (E) / 13,4 s (G)</Aceleração-de-0-a-100-kmh>
+                <Velocidade-máxima>167 km/h (E) / 166 km/h (G)</Velocidade-máxima>
+            </DESEMPENHO>
+            <MOTOR>
+                <cilindrada>999 cm³</cilindrada>
+                <Potência-líquida-máxima>84 cv (E) / 75 cv (G) - 6.250 rpm</Potência-líquida-máxima>
+                <Torque-líquido-máximo>10,4 kgfm (E) / 9,7 kgfm (G) - 3.000rpm</Torque-líquido-máximo>
+            </MOTOR>
+            <FREIOS>
+                <Dianteiros>Discos ventilados</Dianteiros>
+                <Traseiros>Tambor</Traseiros>
+            </FREIOS>
+            <PRINCIPAIS-DIMENSÕES>
+                <Comprimento>3.892 mm</Comprimento>
+                <Distância-entre-eixos>2.467 mm</Distância-entre-eixos>
+                <Largura>1.893 mm</Largura>
+                <Altura>1.475 mm</Altura>
+            </PRINCIPAIS-DIMENSÕES>
+            <PESOS>
+                <Em-ordem-de-marcha>1.001 kg</Em-ordem-de-marcha>
+                <Carga-útil-máxima>434 kg</Carga-útil-máxima>
+            </PESOS>
+            <COMPARTIMENTO-DE-CARGA>263 l</COMPARTIMENTO-DE-CARGA>
+            <DIREÇÃO>Hidráulica</DIREÇÃO>
+            <TRANSMISSÃO>Manual de 5 velocidades</TRANSMISSÃO>
+            <RODAS-E-PNEUS>
+                185/65 R14
+            </RODAS-E-PNEUS>
+            <RESERVATÓRIO-DE-COMBUSTÍVEL>55 litros</RESERVATÓRIO-DE-COMBUSTÍVEL>
+            <NÚMERO-MÁXIMO-DE-PASSAGEIROS>5</NÚMERO-MÁXIMO-DE-PASSAGEIROS>
+        </ficha-técnica>
+        <opcionais>
+            <funcionais>
+                <opcional>
+                    <nome>Urban Completo</nome>
+                    <preço>R$ 6.620,00</preço>
+                    <item>"I-System com Eco-Comfort" - computador de bordo</item>
+                    <item>"Keyless" - sistema de alarme com comando remoto</item>
+                    <item>2 Luzes de leitura dianteiras e 2 luzes de leitura traseiras</item>
+                    <item>4 alto-falantes e 2 tweeters</item>
+                    <item>Alças de segurança no teto</item>
+                    <item>Chave tipo "canivete" com controle remoto</item>
+                    <item>Coluna de direção com ajuste de altura e profundidade</item>
+                    <item>Destravamento elétrico da tampa traseisa com controle remoto</item>
+                    <item>Espelhos retrovisores e maçanetas das portas na cor do veículo</item>
+                    <item>Espelhos retrovisores externos com ajustes elétricos e função tilt-down no lado do passageiro</item>
+                    <item>Espelhos retrovisores externos com luzes indicadoras de direção integradas</item>
+                    <item>Faróis de neblina</item>
+                    <item>Lanternas traseiras escurecidas</item>
+                    <item>Para-sol com espelho iluminado para motorista</item>
+                    <item>Para-sol com espelho iluminado para passageiro</item>
+                    <item>Pneus 195/55 R15</item>
+                    <item>Rodas de liga leve 15"</item>
+                    <item>Sensor de estacionamento traseiro</item>
+                    <item>Sistema de som touchscreen "Composition Touch" com APP-Connect</item>
+                    <item>Travamento elétrico das portas com controle remoto</item>
+                    <item>Vidros elétricos dianteiros e traseiros</item>
+                    <item>Volante multifuncional com comando do sistema de som e "I-System"</item>
+                </opcional>
+            </funcionais>
+            <tecnológico>
+                <opcional>
+                    <nome>Interatividade Media Plus</nome>
+                    <preço>R$ 1.300,00</preço>
+                    <item>4 alto-falantes e 2 tweeters</item>
+                    <item>Sistema infotainment "Media Plus" com bluetooth, MP3 e entradas USB, SD-card e AUX-IN</item>
+                </opcional>
+            </tecnológico>
+        </opcionais>
+    </veiculo>
+    <veiculo>
+        <modelo>Voyage 1.0 84 cv (E) / 75 cv (G) Manual de 5 velocidades Total flex 4 portas</modelo>
+        <preço>R$ 71.350,00</preço>
+        <cores>
+            <metalicas>
+                <cor>
+                    <nome>Cinza Platinum</nome>
+                    <preço>R$ 1610,00</preço>
+                </cor>
+                <cor>
+                    <nome>Prata Sirius</nome>
+                    <preço>R$ 1610,00</preço>
+                </cor>
+            </metalicas>
+            <solidas>
+                <cor>
+                    <nome>Branco Cristal</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+                <cor>
+                    <nome>Preto Ninja</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+                <cor>
+                    <nome>Vermelho Flash</nome>
+                    <preço>R$ 500,00</preço>
+                </cor>
+            </solidas>
+
+        </cores>
+        <ficha-técnica>
+            <DESEMPENHO>
+                <Aceleração-de-0-a-100-kmh>13,2 s (E) / 13,4 s (G)</Aceleração-de-0-a-100-kmh>
+                <Velocidade-máxima>173 km/h (E) / 171 km/h (G)</Velocidade-máxima>
+            </DESEMPENHO>
+            <MOTOR>
+                <cilindrada>999 cm³</cilindrada>
+                <Potência-líquida-máxima>84 cv (E) / 75 cv (G) - 6.250 rpm</Potência-líquida-máxima>
+                <Torque-líquido-máximo>10,4 kgfm (E) / 9,7 kgfm (G) - 3.000rpm</Torque-líquido-máximo>
+            </MOTOR>
+            <FREIOS>
+                <Dianteiros>Discos ventilados</Dianteiros>
+                <Traseiros>Tambor</Traseiros>
+            </FREIOS>
+            <PRINCIPAIS-DIMENSÕES>
+                <Comprimento>4213 mm</Comprimento>
+                <Distância-entre-eixos>2.467 mm</Distância-entre-eixos>
+                <Largura>1.893 mm</Largura>
+                <Altura>1.463 mm</Altura>
+            </PRINCIPAIS-DIMENSÕES>
+            <PESOS>
+                <Em-ordem-de-marcha>1.015 kg</Em-ordem-de-marcha>
+                <Carga-útil-máxima>439 kg</Carga-útil-máxima>
+            </PESOS>
+            <COMPARTIMENTO-DE-CARGA>462 l</COMPARTIMENTO-DE-CARGA>
+            <DIREÇÃO>Hidráulica</DIREÇÃO>
+            <TRANSMISSÃO>Manual de 5 velocidades</TRANSMISSÃO>
+            <RODAS-E-PNEUS>
+                185/65 R14
+            </RODAS-E-PNEUS>
+            <RESERVATÓRIO-DE-COMBUSTÍVEL>55 litros</RESERVATÓRIO-DE-COMBUSTÍVEL>
+            <NÚMERO-MÁXIMO-DE-PASSAGEIROS>5</NÚMERO-MÁXIMO-DE-PASSAGEIROS>
+        </ficha-técnica>
+        <opcionais>
+            <funcionais>
+                <opcional>
+                    <nome>Urban Completo</nome>
+                    <preço>R$ 6.620,00</preço>
+                    <item>"I-System com Eco-Comfort" - computador de bordo</item>
+                    <item>"Keyless" - sistema de alarme com comando remoto</item>
+                    <item>2 Luzes de leitura dianteiras e 2 luzes de leitura traseiras</item>
+                    <item>4 alto-falantes e 2 tweeters</item>
+                    <item>Alças de segurança no teto</item>
+                    <item>Chave tipo "canivete" com controle remoto</item>
+                    <item>Coluna de direção com ajuste de altura e profundidade</item>
+                    <item>Destravamento elétrico da tampa traseisa com controle remoto</item>
+                    <item>Espelhos retrovisores e maçanetas das portas na cor do veículo</item>
+                    <item>Espelhos retrovisores externos com ajustes elétricos e função tilt-down no lado do passageiro</item>
+                    <item>Espelhos retrovisores externos com luzes indicadoras de direção integradas</item>
+                    <item>Faróis de neblina</item>
+                    <item>Lanternas traseiras escurecidas</item>
+                    <item>Para-sol com espelho iluminado para motorista</item>
+                    <item>Para-sol com espelho iluminado para passageiro</item>
+                    <item>Pneus 195/55 R15</item>
+                    <item>Rodas de liga leve 15"</item>
+                    <item>Sensor de estacionamento traseiro</item>
+                    <item>Sistema de som touchscreen "Composition Touch" com APP-Connect</item>
+                    <item>Travamento elétrico das portas com controle remoto</item>
+                    <item>Vidros elétricos dianteiros e traseiros</item>
+                    <item>Volante multifuncional com comando do sistema de som e "I-System"</item>
+                </opcional>
+            </funcionais>
+            <tecnológico>
+                <opcional>
+                    <nome>Interatividade Media Plus</nome>
+                    <preço>R$ 1.300,00</preço>
+                    <item>4 alto-falantes e 2 tweeters</item>
+                    <item>Sistema infotainment "Media Plus" com bluetooth, MP3 e entradas USB, SD-card e AUX-IN</item>
+                </opcional>
+            </tecnológico>
+        </opcionais>
+    </veiculo>
+    <veiculo>
+        <modelo>Fox Connect 1.6 104 cv (E) / 101 cv (G) Manual de 5 velocidades Total flex 4 portas</modelo>
+        <preço>R$ 62.340,00</preço>
+        <cores>
+            <metalicas>
+                <cor>
+                    <nome>Cinza Platinum</nome>
+                    <preço>R$ 1610,00</preço>
+                </cor>
+                <cor>
+                    <nome>Prata Sargas</nome>
+                    <preço>R$ 1610,00</preço>
+                </cor>
+            </metalicas>
+            <solidas>
+                <cor>
+                    <nome>Branco Puro</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+                <cor>
+                    <nome>Preto Ninja</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+                <cor>
+                    <nome>Vermelho Tornado</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+            </solidas>
+        </cores>
+        <ficha-técnica>
+            <DESEMPENHO>
+                <Aceleração-de-0-a-100-kmh>10,9 s (E) / 11,2 s (G)</Aceleração-de-0-a-100-kmh>
+                <Velocidade-máxima>181 km/h (E) / 179 km/h (G)</Velocidade-máxima>
+            </DESEMPENHO>
+            <MOTOR>
+                <cilindrada>1.598 cm³</cilindrada>
+                <Potência-líquida-máxima>104 cv (E) / 101 cv (G) - 5.250 rpm</Potência-líquida-máxima>
+                <Torque-líquido-máximo>15,6 kgfm (E) / 15,4 kgfm (G) - 2.500rpm</Torque-líquido-máximo>
+            </MOTOR>
+            <FREIOS>
+                <Dianteiros>Disco ventilado</Dianteiros>
+                <Traseiros>Tambor</Traseiros>
+            </FREIOS>
+            <PRINCIPAIS-DIMENSÕES>
+                <Comprimento>3.868 mm</Comprimento>
+                <Distância-entre-eixos>2.467 mm</Distância-entre-eixos>
+                <Largura>1.660 mm</Largura>
+                <Altura>1.552 mm</Altura>
+            </PRINCIPAIS-DIMENSÕES>
+            <PESOS>
+                <Em-ordem-de-marcha>1.093 kg</Em-ordem-de-marcha>
+            </PESOS>
+            <COMPARTIMENTO-DE-CARGA>270 l</COMPARTIMENTO-DE-CARGA>
+            <DIREÇÃO>Elétrica</DIREÇÃO>
+            <TRANSMISSÃO>Manual de 5 velocidades</TRANSMISSÃO>
+            <RODAS-E-PNEUS>
+                195/55 R15
+            </RODAS-E-PNEUS>
+            <RESERVATÓRIO-DE-COMBUSTÍVEL>50 litros</RESERVATÓRIO-DE-COMBUSTÍVEL>
+            <NÚMERO-MÁXIMO-DE-PASSAGEIROS>5</NÚMERO-MÁXIMO-DE-PASSAGEIROS>
+        </ficha-técnica>
+        <opcionais>
+            <opcional>
+                <nome>Pacote Dark II </nome>
+                <preço>R$ 250,00</preço>
+                <item>Faróis duplos com máscara escurecida</item>
+                <item>Retrovisores pintados na cor preto ninja</item>
+                <item>Rodas de liga leve aro 15" "Turim" com pneus 195/55 R15</item>
+                <item>Tapetes de tecido na frente e atrás</item>
+            </opcional>
+        </opcionais>
+    </veiculo>
+    <veiculo>
+        <modelo>Polo Comfortline 200 TSI 128 cv (E) / 116 cv (G) Automática de 6 velocidades Total Flex 4 portas</modelo>
+        <preço>R$ 91.720,00</preço>
+        <cores>
+            <metalicas>
+                <cor>
+                    <nome>Cinza Platinum</nome>
+                    <preço>R$ 1610,00</preço>
+                </cor>
+                <cor>
+                    <nome>Prata Tungstênio</nome>
+                    <preço>R$ 1585,00</preço>
+                </cor>
+            </metalicas>
+            <solidas>
+                <cor>
+                    <nome>Branco Cristal</nome>
+                    <preço>R$ 495,00</preço>
+                </cor>
+                <cor>
+                    <nome>Preto Ninja</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+            </solidas>
+        </cores>
+        <ficha-técnica>
+            <DESEMPENHO>
+                <Aceleração-de-0-a-100-kmh>9,5 s (E) / 9,9 s (G)</Aceleração-de-0-a-100-kmh>
+                <Velocidade-máxima>192 km/h (E) / 187 km/h (G)</Velocidade-máxima>
+            </DESEMPENHO>
+            <MOTOR>
+                <cilindrada>999 cm³</cilindrada>
+                <Potência-líquida-máxima>128 cv (E) / 116 cv (G) - 5.500rpm</Potência-líquida-máxima>
+                <Torque-líquido-máximo>20,4 kgfm (E/G) - 2.000/3.500 rpm</Torque-líquido-máximo>
+            </MOTOR>
+            <FREIOS>
+                <Dianteiros>Disco ventilado</Dianteiros>
+                <Traseiros>Disco</Traseiros>
+            </FREIOS>
+            <PRINCIPAIS-DIMENSÕES>
+                <Comprimento>4.057 mm</Comprimento>
+                <Distância-entre-eixos>2.565 mm</Distância-entre-eixos>
+                <Largura>1.751 mm</Largura>
+                <Altura>1.468 mm</Altura>
+            </PRINCIPAIS-DIMENSÕES>
+            <PESOS>
+                <Em-ordem-de-marcha>1.178 kg</Em-ordem-de-marcha>
+            </PESOS>
+            <COMPARTIMENTO-DE-CARGA>300 l</COMPARTIMENTO-DE-CARGA>
+            <DIREÇÃO>Elétrica</DIREÇÃO>
+            <TRANSMISSÃO>Automática de 6 velocidades</TRANSMISSÃO>
+            <RODAS-E-PNEUS>
+                185/65 R15
+            </RODAS-E-PNEUS>
+            <RESERVATÓRIO-DE-COMBUSTÍVEL>52 litros</RESERVATÓRIO-DE-COMBUSTÍVEL>
+            <NÚMERO-MÁXIMO-DE-PASSAGEIROS>5</NÚMERO-MÁXIMO-DE-PASSAGEIROS>
+        </ficha-técnica>
+        <opcionais>
+        </opcionais>
+    </veiculo>
+    <veiculo>
+        <modelo>Jetta Comfortline 250 TSI 150 cv Aut. 6 velocidades com função Tiptronic Total Flex 4 portas</modelo>
+        <preço>R$ 137.720,00</preço>
+        <cores>
+            <metalicas>
+                <cor>
+                    <nome>Cinza Platinum</nome>
+                    <preço>R$ 1520,00</preço>
+                </cor>
+                <cor>
+                    <nome>Prata Pyrit</nome>
+                    <preço>R$ 1520,00</preço>
+                </cor>
+            </metalicas>
+            <perolizadas>
+                <cor>
+                    <nome>Preto Mystic</nome>
+                    <preço>R$ 1620,00</preço>
+                </cor>
+            </perolizadas>
+            <solidas>
+                <cor>
+                    <nome>Branco Puro</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+                <cor>
+                    <nome>Preto Ninja</nome>
+                    <preço>Sem custos adicionais</preço>
+                </cor>
+            </solidas>
+        </cores>
+        <ficha-técnica>
+            <DESEMPENHO>
+                <Aceleração-de-0-a-100-kmh>8,9 s (G / A)</Aceleração-de-0-a-100-kmh>
+                <Velocidade-máxima>210 km/h (E/G)</Velocidade-máxima>
+            </DESEMPENHO>
+            <MOTOR>
+                <cilindrada>1.395 cm³</cilindrada>
+                <Potência-líquida-máxima>150 cv (E/G) - 5.000 rpm</Potência-líquida-máxima>
+                <Torque-líquido-máximo>25,5 kgfm (E/G) - 1.400/3.500 rpm</Torque-líquido-máximo>
+            </MOTOR>
+            <FREIOS>
+                <Dianteiros>Discos ventilados</Dianteiros>
+                <Traseiros>Discos</Traseiros>
+            </FREIOS>
+            <PRINCIPAIS-DIMENSÕES>
+                <Comprimento>4.702 mm</Comprimento>
+                <Distância-entre-eixos>2.688 mm</Distância-entre-eixos>
+                <Largura>1.799 mm</Largura>
+                <Altura>1.474 mm</Altura>
+            </PRINCIPAIS-DIMENSÕES>
+            <PESOS>
+                <Em-ordem-de-marcha>1.331 kg</Em-ordem-de-marcha>
+            </PESOS>
+            <COMPARTIMENTO-DE-CARGA>510 l</COMPARTIMENTO-DE-CARGA>
+            <DIREÇÃO>Elétrica</DIREÇÃO>
+            <TRANSMISSÃO>Aut. de 6 vel. com função Tiptronic</TRANSMISSÃO>
+            <RODAS-E-PNEUS>
+                205/55 R17
+            </RODAS-E-PNEUS>
+            <RESERVATÓRIO-DE-COMBUSTÍVEL>50 litros</RESERVATÓRIO-DE-COMBUSTÍVEL>
+            <NÚMERO-MÁXIMO-DE-PASSAGEIROS>5</NÚMERO-MÁXIMO-DE-PASSAGEIROS>
+        </ficha-técnica>
+        <opcionais>
+            <opcional>
+                <nome>Pacote teto solar</nome>
+                <preço> R$ 6.140,00</preço>
+                <item>2 luzes de leitura na frente</item>
+                <item>Teto elétrico - panorâmico, basculante e corrediço</item>
+            </opcional>
+        </opcionais>
+    </veiculo>
+</veiculos>
