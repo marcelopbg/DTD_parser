@@ -9,7 +9,8 @@ namespace DTDValidator
     {
         private static bool DocumentHasErrors = false;
 
-        private static List<string> messageErrors = new List<string>();
+        private static List<string> errorMessages = new List<string>();]
+
         public static void Main()
         {
             try
@@ -25,7 +26,7 @@ namespace DTDValidator
             }
             catch (Exception e)
             {
-                messageErrors.Add(e.Message);
+                errorMessages.Add(e.Message);
                 DocumentHasErrors = true;
             }
             finally
@@ -34,7 +35,7 @@ namespace DTDValidator
                 {
                     Console.WriteLine("XML Document is Badly Formatted");
                     Console.WriteLine("Errors: \n");
-                    foreach (var item in messageErrors)
+                    foreach (var item in errorMessages)
                     {
                         Console.WriteLine($"{item} \n");
                     }
@@ -49,7 +50,7 @@ namespace DTDValidator
 
         private static void ValidationCallBack(object sender, ValidationEventArgs e)
         {
-            messageErrors.Add(e.Message);
+            errorMessages.Add(e.Message);
             DocumentHasErrors = true;
         }
     }
